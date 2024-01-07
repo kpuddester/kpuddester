@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I’m currently learning Enterprise Web Development at College of the North Atlantic.
+I'vw been working as a Web Developer since 2007.
+
 <!--
 **kpuddester/kpuddester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
